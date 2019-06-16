@@ -1,0 +1,220 @@
+{
+  "images":[
+    {
+      "name": "Paper",
+      "image": "images/paper.png",
+      "type": "material"
+    },
+    {
+      "name": "Paper pulp",
+      "image": "images/paperPulp.png",
+      "type": "material"
+    },
+    {
+      "name": "Clay",
+      "image": "images/clay.png",
+      "type": "material"
+    },
+    {
+      "name": "ABS",
+      "image": "images/ABS.png",
+      "type": "material"
+    },
+    {
+      "name": "Acrylic",
+      "image": "images/Acrylic.png",
+      "type": "material"
+    },
+    {
+      "name": "Aluminium",
+      "image": "images/Aluminium.png",
+      "type": "material"
+    },
+    {
+      "name": "Concrete",
+      "image": "images/concrete.png",
+      "type": "material"
+    },
+    {
+      "name": "Copper",
+      "image": "images/copper.png",
+      "type": "material"
+    },
+    {
+      "name": "Earthenware",
+      "image": "images/earthenware.png",
+      "type": "material"
+    },
+    {
+      "name": "Epoxy resin",
+      "image": "images/epoxyResin.png",
+      "type": "material"
+    },
+    {
+      "name": "Gelatin",
+      "image": "images/gelatin.png",
+      "type": "material"
+    },
+    {
+      "name": "Roving",
+      "image": "images/roving.png",
+      "type": "material"
+    },
+    {
+      "name": "Silicone",
+      "image": "images/silicone.png",
+      "type": "material"
+    },
+    {
+      "name": "Slip",
+      "image": "images/slip.png",
+      "type": "material"
+    },
+    {
+      "name": "Steel",
+      "image": "images/steel.png",
+      "type": "material"
+    },
+    {
+      "name": "Tin",
+      "image": "images/tin.png",
+      "type": "material"
+    },
+    {
+      "name": "Wax",
+      "image": "images/wax.png",
+      "type": "material"
+    },
+    {
+      "name": "Acid stain",
+      "image": "images/AcidStain.png",
+      "type": "surface"
+    },
+    {
+      "name": "Beeswax burning",
+      "image": "images/beeswaxBurning.png",
+      "type": "surface"
+    },
+    {
+      "name": "Clear coat",
+      "image": "images/clearCoat.png",
+      "type": "surface"
+    },
+    {
+      "name": "Glaze dipping",
+      "image": "images/glazeDipping.png",
+      "type": "surface"
+    },
+    {
+      "name": "Grinding",
+      "image": "images/grinding.png",
+      "type": "surface"
+    },
+    {
+      "name": "Hammering",
+      "image": "images/hammering.png",
+      "type": "surface"
+    },
+    {
+      "name": "Paint",
+      "image": "images/paint.png",
+      "type": "surface"
+    },
+    {
+      "name": "Polishing",
+      "image": "images/polishing.png",
+      "type": "surface"
+    },
+    {
+      "name": "Rice glue",
+      "image": "images/riceGlue.png",
+      "type": "surface"
+    },
+    {
+      "name": "Sandblasting",
+      "image": "images/sandBlasting.png",
+      "type": "surface"
+    },
+    {
+      "name": "Shaving",
+      "image": "images/shaving.png",
+      "type": "surface"
+    },
+    {
+      "name": "Smoothing",
+      "image": "images/smoothing.png",
+      "type": "surface"
+    } ,
+    {
+      "name": "3D printing",
+      "image": "images/3DPrinting.png",
+      "type": "technique"
+    },
+    {
+      "name": "Carving",
+      "image": "images/Carving.png",
+      "type": "technique"
+    },
+    {
+      "name": "Coiling",
+      "image": "images/coiling.png",
+      "type": "technique"
+    },
+    {
+      "name": "Cutting",
+      "image": "images/cutting.png",
+      "type": "technique"
+    },
+    {
+      "name": "Die casting",
+      "image": "images/dieCasting.png",
+      "type": "technique"
+    },
+    {
+      "name": "Extrude",
+      "image": "images/extrude.png",
+      "type": "technique"
+    },
+    {
+      "name": "Forging",
+      "image": "images/forging.png",
+      "type": "technique"
+    },
+    {
+      "name": "Milling",
+      "image": "images/milling.png",
+      "type": "technique"
+    },
+    {
+      "name": "Molding",
+      "image": "images/molding.png",
+      "type": "technique"
+    },
+    {
+      "name": "Pinch potting",
+      "image": "images/pinchPotting.png",
+      "type": "technique"
+    },
+    {
+      "name": "Spinning",
+      "image": "images/spinning.png",
+      "type": "technique"
+    },
+    {
+      "name": "Throwing",
+      "image": "images/throwing.png",
+      "type": "technique"
+    },
+    {
+      "name": "Weaving",
+      "image": "images/weaving.png",
+      "type": "technique"
+    },
+    {
+      "name": "Wet felting",
+      "image": "images/wetFelting.png",
+      "type": "technique"
+    }
+
+  ]
+}

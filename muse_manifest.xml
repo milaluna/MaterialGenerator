@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="materialLibrary.com" resolutions="1x" timestamp="1553446303262">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4047144226" ref="index"/>
+    <file name="collective.css" crc="34450329" ref="collective"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:collective"/>
+    <file name="museutils.js" crc="340535759" ref="index:collective"/>
+    <file name="whatinput.js" crc="86476730" ref="index:collective"/>
+    <file name="museconfig.js" crc="310584261" ref="index:collective"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:collective"/>
+    <file name="require.js" crc="7928878" ref="index:collective"/>
+  </folder>
+  <folder name="images">
+    <file name="joomchifelting-crop-u1291-crop-u2067.jpg" crc="518164698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joomchifelting-crop-u1291-crop-u2089.jpg" crc="518164698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joomchifelting-crop-u1291-crop-u2117.jpg" crc="4064419573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joomchifelting-crop-u1291-crop-u2103.jpg" crc="4064419573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joomchifelting-crop-u1291-crop-u2131.jpg" crc="4064419573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joomchifelting-crop-u1291-crop-u2145.jpg" crc="4064419573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="267188064" seo="true" mt="1553445930473" redirect="true"/>
+  <file name="collective.html" crc="3896365958" seo="true" mt="1553036237467" redirect="true"/>
+</manifest>
